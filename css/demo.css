@@ -1,0 +1,31 @@
+/* styles.css */
+
+.hidden {
+    display: none;
+}
+
+#error {
+    color: red;
+}
+
+#auth {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#profile {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
